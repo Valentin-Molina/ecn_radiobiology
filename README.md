@@ -6,16 +6,24 @@ Here are some of the graphics we obtained in this project :
 
 ## Time series
 
-![Number of cells alive during the experimentes.](time_series.png)
+|![](time_series.png)|
+|:--:| 
+| *Number of cells alive during the experimentes.* |
 
 ## Feature engineering and correlation
 
-![Correlations between some features related to the experimenes.](correlation.png)
+|![](correlation.png)|
+|:--:| 
+| *Correlations between some features related to the experiments.* |
 
 ## Box plot
 
-![Effects of the radiation level.](boxplot.png)
+|![](boxplot.png)|
+|:--:| 
+| *Effects of the radiation level.* |
 
 ## Box plot without outliers
 
-![Effects of the radiation level (without outliers).](boxplot_without_outliers.png)
+|![](boxplot_without_outliers.png)|
+|:--:| 
+| *Effects of the radiation level (without outliers).* |
